@@ -1,3 +1,0 @@
-/home/devdsg/pr2_cu/build/CMakeFiles/pr2_cu.dir
-/home/devdsg/pr2_cu/build/CMakeFiles/edit_cache.dir
-/home/devdsg/pr2_cu/build/CMakeFiles/rebuild_cache.dir
